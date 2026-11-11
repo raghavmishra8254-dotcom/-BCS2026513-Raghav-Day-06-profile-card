@@ -25,3 +25,7 @@ Future Software Engineer
 
 ---
 ⭐ Thank You for Visiting My Project!
+
+## 📸 Website Screenshot
+
+![Profile Card](images/profile.png)

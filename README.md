@@ -28,4 +28,4 @@ Future Software Engineer
 
 ## 📸 Website Screenshot
 
-![Profile Card](images/profile.png)
+![Profile Card](IMG_20261111_213723.jpg)

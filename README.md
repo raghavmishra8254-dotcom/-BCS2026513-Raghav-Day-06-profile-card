@@ -26,6 +26,6 @@ Future Software Engineer
 ---
 ⭐ Thank You for Visiting My Project!
 
-## 📸 Website Screenshot
+## 📸 Profile Card
 
 ![Profile Card](IMG_20261111_213723.jpg)
